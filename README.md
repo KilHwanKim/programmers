@@ -14,7 +14,7 @@ PROGRAMMERS
 |[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|[py](Programmers/level1/문자열다루기기본.py)|
 |[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|[py](Programmers/level1/서울에서김서방찾기.py)|
 |[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|[py](Programmers/level1/소수찾기.py)|
-|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[py](Programmers/level1/수박수박수박수박수박수?.py)|
+|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[py](Programmers/level1/수박수박수박수박수박수%3F.py)|
 |[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|[py](Programmers/level1/문자열을정수로바꾸기.py)|
 |[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[py](Programmers/level1/시저암호.py)|
 |[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|[py](Programmers/level1/약수의합.py)|
