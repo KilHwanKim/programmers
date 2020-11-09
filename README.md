@@ -24,6 +24,7 @@ PROGRAMMERS
 |[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|[py](Programmers/level1/정수제곱근판별.py)|
 |[제일 작은 수 제거 하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[py](Programmers/level1/제일작은수제거하기.py)|
 |[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|[py](Programmers/level1/짝수와홀수.py)|
+|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|[py](Programmers/level1/최대공약수와최소공배수.py)|
 |[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[py](Programmers/level1/콜라츠추측.py)|
 |[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[py](Programmers/level1/평균구하기.py)|
 |[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[py](Programmers/level1/하샤드수.py)|
