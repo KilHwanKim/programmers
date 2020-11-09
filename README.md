@@ -28,7 +28,7 @@ PROGRAMMERS
 |[평균 구하기]()|[py](Programmers/level1/평균구하기.py)|
 |[하샤드 수]()|[py](Programmers/level1/하샤드수.py)|
 |[핸드폰 번호 가리기]()|[py](Programmers/level1/핸드폰번호가리기.py)|
-|[행렬의 덧셈]()|[py](Programmers/level1/[행렬의덧셈.py)|
+|[행렬의 덧셈]()|[py](Programmers/level1/행렬의덧셈.py)|
 |[x만큼 간격이 있는 n개의 숫자]()|[py](Programmers/level1/x만큼간격이있는n개의숫자.py)|
 |[직사각형 별찍기]()|[py](Programmers/level1/직사각형별찍기.py)|
 |[예산]()|[py](Programmers/level1/예산.py)|
