@@ -19,7 +19,8 @@ PROGRAMMERS
 |[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|[py](Programmers/level1/문자열을정수로바꾸기.py)|
 |[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[py](Programmers/level1/시저암호.py)|
 |[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|[py](Programmers/level1/약수의합.py)|
-|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[py](Programmers/level1/자릿수더하기.py)|
+|[이상한 문자만들기](https://programmers.co.kr/learn/courses/30/lessons/12928)|[py](Programmers/level1/약수의합.py)|
+|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12930)|[py](Programmers/level1/이상한문자만들기.py)|
 |[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|[py](Programmers/level1/자연수뒤집어배열로만들기.py)|
 |[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[py](Programmers/level1/정수내림차순으로배치하기.py)|
 |[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|[py](Programmers/level1/정수제곱근판별.py)|
