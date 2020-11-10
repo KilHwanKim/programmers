@@ -9,6 +9,7 @@ PROGRAMMERS
 |[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[py](Programmers/level1/3진법뒤집기.py)|
 |[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[py](Programmers/level1/가운데글자가져오기.py)|
 |[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[py](Programmers/level1/같은숫자는싫어.py)|
+|[나누어 떨어지는 숫자배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[py](Programmers/level1/나누어떨어지는숫자배열.py)|
 |[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[py](Programmers/level1/두정수사이의합.py)|
 |[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[py](Programmers/level1/문자열내p와y의개수.py)|
 |[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|[py](Programmers/level1/문자열내림차순으로배치하기.py)|
