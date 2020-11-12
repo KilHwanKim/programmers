@@ -39,6 +39,6 @@ PROGRAMMERS
 |[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[py](Programmers/level1/x만큼간격이있는n개의숫자.py)|
 |[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[py](Programmers/level1/직사각형별찍기.py)|
 |[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[py](Programmers/level1/예산.py)|
-|[1차비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[py](Programmers/level1/[1차]비밀지도.py)|
+|[\[1차\]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[py](Programmers/level1/[1차]비밀지도.py)|
 
 
