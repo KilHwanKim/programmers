@@ -7,7 +7,7 @@ PROGRAMMERS
 |[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[py](Programmers/level1/두개뽑아서더하기.py)|
 |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[py](Programmers/level1/모의고사.py)|
 |[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[py](Programmers/level1/K번째수.py)|
-|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[py](Programmers/level1/2016.py)|
+|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[py](Programmers/level1/2016.py), [java](Programmers/level1/2016.java)|
 |[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[py](Programmers/level1/3진법뒤집기.py)|
 |[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[py](Programmers/level1/가운데글자가져오기.py)|
 |[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[py](Programmers/level1/같은숫자는싫어.py)|
