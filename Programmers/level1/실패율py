@@ -1,0 +1,11 @@
+def solution(N, stages):
+    result = []
+    LEN = len(stages)## 스테이지 개수
+    for x in range(1,N+1):
+        if LEN==0:
+            result.append((1,x))
+        else:
+            result.append((1-(stages.count(x)/LEN),x))
+            LEN-=stages.count(x)
+    result.sort()
+    return [x[1] for x in result]
