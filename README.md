@@ -40,5 +40,6 @@ PROGRAMMERS
 |[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[py](Programmers/level1/직사각형별찍기.py)|
 |[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[py](Programmers/level1/예산.py)|
 |[\[1차\]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[py](Programmers/level1/[1차]비밀지도.py)|
+|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[py](Programmers/level1/실패율py)|
 
 
