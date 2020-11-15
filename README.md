@@ -5,6 +5,7 @@ PROGRAMMERS
 |제목|내용|
 |------|:-------------:|
 |[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[py](Programmers/level1/두개뽑아서더하기.py)|
+|[크래인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[py](Programmers/level1/크래인인형뽑기게임.py)|
 |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[py](Programmers/level1/모의고사.py)|
 |[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[py](Programmers/level1/K번째수.py)|
 |[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[py](Programmers/level1/2016.py), [java](Programmers/level1/2016.java)|
