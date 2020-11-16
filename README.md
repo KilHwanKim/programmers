@@ -43,4 +43,9 @@ PROGRAMMERS
 |[\[1차\]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[py](Programmers/level1/[1차]비밀지도.py)|
 |[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[py](Programmers/level1/실패율py)|
 
+##Lv2
+-----------------------------------------------
+|제목|내용|
+|------|:-------------:|
+|[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[py](Programmers/level2/스킬트리.py)|
 
