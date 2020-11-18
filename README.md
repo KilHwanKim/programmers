@@ -49,4 +49,6 @@ PROGRAMMERS
 |------|:-------------:|
 |[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[py](Programmers/level2/스킬트리.py)|
 |[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)|[py](Programmers/level2/최댓값과최솟값.py)|
+|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)|[py](Programmers/level2/최댓값과최솟값.py)|
+
 
