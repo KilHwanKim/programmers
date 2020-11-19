@@ -49,6 +49,7 @@ PROGRAMMERS
 |------|:-------------:|
 |[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[py](Programmers/level2/스킬트리.py)|
 |[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)|[py](Programmers/level2/최댓값과최솟값.py)|
-|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[py](Programmers/level2/카펫.py)|
+|[카펫](https://programmers.co.kr/learn/courses/30/lessons/12945)|[py](Programmers/level2/카펫.py)|
+|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/42842)|[py](Programmers/level2/피보나치수.py)|
 
 
