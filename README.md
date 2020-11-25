@@ -57,7 +57,7 @@ PROGRAMMERS
 |[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)|[py](Programmers/level2/피보나치수.py)|
 |[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[py](Programmers/level2/짝지어제거하기.py)|
 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[py](Programmers/level2/오픈채팅방.py)|
-|[\[3차\] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|[py](Programmers/level2/.py)|
+|[\[3차\] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|[py](Programmers/level2/파일명정렬.py)|
 
 
 
