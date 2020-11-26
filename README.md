@@ -49,7 +49,7 @@ PROGRAMMERS
 |------|:-------------:|
 |[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[py](Programmers/level2/스킬트리.py)|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[py](Programmers/level2/전화번호목록.py)|
-|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[py](Programmers/level2/.py)|
+|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[py](Programmers/level2/튜플.py)|
 |[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|[py](Programmers/level2/다음큰숫자.py)|
 |[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)|[py](Programmers/level2/숫자의표현.py)|
 |[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)|[py](Programmers/level2/최댓값과최솟값.py)|
