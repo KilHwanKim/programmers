@@ -1,5 +1,7 @@
 def solution(m, musicinfos):
     answer = []
+    title_list = []
+    순서 = []
     for x in musicinfos:
         result = x.split(",")
         start =result[0].split(":")
@@ -12,6 +14,10 @@ def solution(m, musicinfos):
     M_song = m.replace("C#","c").replace("D#","d").replace("F#","f").replace("G#","g").replace("A#","a")
     for an in answer:
         if M_song in an[1]:
-            return an[0]
-        
-    return "(None)"
+            title_list.append([an[0],len(an[1])])
+    if title_list == []:
+        return "(None)"
+    else:
+        순서 =[j[0]for j in title_list ]
+        title_list.sort(key= lambda x: (-x[1]))
+        return title_list[0][0]
