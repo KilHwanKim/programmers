@@ -2,22 +2,16 @@ def solution(m, musicinfos):
     answer = []
     for x in musicinfos:
         result = x.split(",")
-        time = (int(result[1].split(":")[0])-int(result[0].split(":")[0]))*60+(int(result[1].split(":")[1])-int(result[0].split(":")[1]))
-        code = []
-        for x in list(result[3]):
-            if x=="#":
-                code.append("*"+code.pop()) 
-            else:
-                code.append(x)
-        answer.append((result[2]," ".join([code[x%len(code)] for x in range(time)])))
-    listen=[]
-    for x in m:
-            if x=="#":
-                listen.append("*"+listen.pop()) 
-            else:
-                listen.append(x)
-    listen = " ".join(listen)
-    for x in answer:
-        if listen in x[1]:
-            return x[0]
-    return "'(none')"
+        start =result[0].split(":")
+        end = result[1].split(":")
+        title = result[2]
+        code = result[3].replace("C#","c").replace("D#","d").replace("F#","f").replace("G#","g").replace("A#","a")
+        time = (int(end[0])-int(start[0]))*60+(int(end[1])-int(start[1]))
+        code_song = "".join([code[x%len(code)] for x in range(time)])
+        answer.append((title,code_song))       
+    M_song = m.replace("C#","c").replace("D#","d").replace("F#","f").replace("G#","g").replace("A#","a")
+    for an in answer:
+        if M_song in an[1]:
+            return an[0]
+        
+    return "(None)"
