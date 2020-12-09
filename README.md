@@ -50,6 +50,7 @@ PROGRAMMERS
 |------|:-------------:|
 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[py](Programmers/level2/프린터.py)|
 |[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[py](Programmers/level2/스킬트리.py)|
+|[문자열 압출](https://programmers.co.kr/learn/courses/30/lessons/60057)|[py](Programmers/level2/문자열.py)|
 |[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[py](Programmers/level2/가장큰수.py)|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[py](Programmers/level2/전화번호목록.py)|
 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[py](Programmers/level2/튜플.py)|
