@@ -52,6 +52,7 @@ PROGRAMMERS
 |[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[py](Programmers/level2/스킬트리.py)|
 |[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[py](Programmers/level2/문자열압축.py)|
 |[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[py](Programmers/level2/가장큰수.py)|
+|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[py](Programmers/level2/H-Index.py)|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[py](Programmers/level2/전화번호목록.py)|
 |[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[py](Programmers/level2/구명보트.py)|
 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[py](Programmers/level2/튜플.py)|
@@ -65,7 +66,6 @@ PROGRAMMERS
 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[py](Programmers/level2/오픈채팅방.py)|
 |[방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|[py](Programmers/level2/방금그곡.py)|
 |[\[3차\] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|[py](Programmers/level2/파일명정렬.py)|
-
 
 
 
