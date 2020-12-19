@@ -49,6 +49,7 @@ PROGRAMMERS
 |제목|내용|
 |------|:-------------:|
 |[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[py](Programmers/level2/멀쩡한사각형.py)|
+|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[py](Programmers/level2/.py)|
 |[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[py](Programmers/level2/프린터.py)|
 |[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[py](Programmers/level2/스킬트리.py)|
 |[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[py](Programmers/level2/문자열압축.py)|
