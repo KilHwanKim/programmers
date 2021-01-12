@@ -72,6 +72,7 @@ PROGRAMMERS
 |[방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|[py](Programmers/level2/방금그곡.py)|
 |[\[3차\] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|[py](Programmers/level2/파일명정렬.py)|
 |[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[py](Programmers/level2/124나라.py)|
+|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[py](Programmers/level2/.py)|
 
 
 
