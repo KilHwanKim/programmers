@@ -74,7 +74,7 @@ PROGRAMMERS
 |[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[py](Programmers/level2/124나라.py)|
 |[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[py](Programmers/level2/다리를지나는트럭.py)|
 |[행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)|[py](Programmers/level2/행렬의곱셈.py)|
-|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[py](Programmers/level2/.py)|
+|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[py](Programmers/level2/위장.py)|
 
 
 
