@@ -80,6 +80,7 @@ PROGRAMMERS
 |[이진변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)|[py](Programmers/level2/이진변환반복하기.py)|
 |[JadenCase 문자열만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[py](Programmers/level2/JadenCase문자열만들기.py)|
 |[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[py](Programmers/level2/N개의최소공배수.py)|
+|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890#qna)|[py](Programmers/level2/후보키.py)|
 
 
 
