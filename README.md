@@ -81,6 +81,7 @@ PROGRAMMERS
 |[JadenCase 문자열만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)|[py](Programmers/level2/JadenCase문자열만들기.py)|
 |[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[py](Programmers/level2/N개의최소공배수.py)|
 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890#qna)|[py](Programmers/level2/후보키.py)|
+|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[py](Programmers/level2/타겟넘버.py)|
 
 
 
