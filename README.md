@@ -88,3 +88,4 @@ PROGRAMMERS
 |제목|내용|
 |------|:-------------:|
 |[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[py](Programmers/level3/네트워크.py)|
+|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[py](Programmers/level3/베스트앨범.py)|
