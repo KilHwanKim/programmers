@@ -1,14 +1,28 @@
 def solution(tickets):
-    FT = [False] * len(tickets)
-    answer = ["ICN"]
-    Q=1
+    answer = []
+    start = "ICN"
+    Q= []
+    result = []
+    for i in tickets:
+        if start == i[0]:
+            Q.append([i])
     while Q :
-        Q=[]
-        for index, val in enumerate(tickets):
-            if (not FT[index])  and val[0]==answer[-1]:
-                Q.append([index,val[1]])
-        if Q==[]:
-            return answer
-        Q.sort(key = lambda x : x[-1] )
-        FT[Q[0][0]] =True
-        answer.append(Q[0][-1]) 
+        v = Q.pop(0)
+        if len(v) == len(tickets):
+            answer.append(v)
+        else :
+            start = v[-1][-1]
+            for i in tickets:
+                vc = v.copy()
+                if start == i[0] and (vc.count(i)<tickets.count(i)) :
+                    vc.append(i)
+                    Q.append(vc)
+    for i in answer:
+        R=[]
+        for j in i:
+            R.append(j[0])
+        R.append(i[-1][-1])
+        result.append(R)
+        
+    result.sort(key= lambda x: str(x))
+    return result[0]
