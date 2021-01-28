@@ -11,4 +11,4 @@ def solution(tickets):
             return answer
         Q.sort(key = lambda x : x[-1] )
         FT[Q[0][0]] =True
-        answer.append(Q[0][-1])
+        answer.append(Q[0][-1]) 
