@@ -12,4 +12,4 @@ def solution(operations):
             hp.heappush(heap,int(val.split(" ")[-1]))
     if heap==[]:
         return [0,0]
-    return [max(heap),min(heap)]
+    return [max(heap),heap[0]]
