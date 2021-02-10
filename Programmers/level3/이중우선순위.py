@@ -1,6 +1,6 @@
 import heapq as hp
 def solution(operations):
-    heap = []
+    heap = [] 
     for val in operations:
         if val == "D 1":
             if heap!=[]:
