@@ -84,6 +84,7 @@ PROGRAMMERS
 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890#qna)|[py](Programmers/level2/후보키.py)|
 |[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[py](Programmers/level2/타겟넘버.py)|
 |[올바른괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[py](Programmers/level2/올바른괄호.py)||
+|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[py](Programmers/level2/큰수만들기.py)||
 
 ##Lv3
 -----------------------------------------------
