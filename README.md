@@ -44,7 +44,7 @@ PROGRAMMERS
 |[\[1차\]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[py](Programmers/level1/[1차]비밀지도.py)|
 |[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[py](Programmers/level1/실패율py)|
 |[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[py](Programmers/level1/문자열내마음대로정렬하기.py)||
-|[\[1차\] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[py](Programmers/level1/.py)||
+|[\[1차\] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[py](Programmers/level1/다트게임.py)||
 
 
 ##Lv2
