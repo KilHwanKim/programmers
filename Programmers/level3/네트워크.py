@@ -22,3 +22,5 @@ def solution(n, computers):
     return  len(answer)
     
     
+
+    
