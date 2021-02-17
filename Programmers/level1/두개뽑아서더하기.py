@@ -7,5 +7,4 @@ def solution(numbers):
         while result2:
             N = result2.pop(0)
             answer.append(M+N)
-    
     return sorted(list(set(answer)))
