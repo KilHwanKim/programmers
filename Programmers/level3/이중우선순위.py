@@ -13,4 +13,3 @@ def solution(operations):
     if heap==[]:
         return [0,0]
     return [max(heap),heap[0]]
-
