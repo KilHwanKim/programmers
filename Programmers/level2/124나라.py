@@ -18,4 +18,3 @@ def solution(n):
                 answer="4"+answer
             n=n//3-1
         
-    
