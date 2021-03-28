@@ -20,7 +20,3 @@ def solution(n, computers):
     for i in range(n):
         bfs(computers,i,visited,answer)
     return  len(answer)
-    
-    
-
-    
